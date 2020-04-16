@@ -1,0 +1,16 @@
+F:\Ejercicios_Instructor_Jesus_David\EncuestaModificada\EncuestaModificada\bin\Debug\EncuestaModificada.exe.config
+F:\Ejercicios_Instructor_Jesus_David\EncuestaModificada\EncuestaModificada\bin\Debug\EncuestaModificada.exe
+F:\Ejercicios_Instructor_Jesus_David\EncuestaModificada\EncuestaModificada\bin\Debug\EncuestaModificada.pdb
+F:\Ejercicios_Instructor_Jesus_David\EncuestaModificada\EncuestaModificada\obj\Debug\EncuestaModificada.exe
+F:\Ejercicios_Instructor_Jesus_David\EncuestaModificada\EncuestaModificada\obj\Debug\EncuestaModificada.pdb
+G:\Ejercicios_Instructor_Jesus_David\EncuestaModificada\EncuestaModificada\bin\Debug\EncuestaModificada.exe.config
+G:\Ejercicios_Instructor_Jesus_David\EncuestaModificada\EncuestaModificada\obj\Debug\EncuestaModificada.exe
+G:\Ejercicios_Instructor_Jesus_David\EncuestaModificada\EncuestaModificada\obj\Debug\EncuestaModificada.pdb
+G:\Ejercicios_Instructor_Jesus_David\EncuestaModificada\EncuestaModificada\bin\Debug\EncuestaModificada.exe
+G:\Ejercicios_Instructor_Jesus_David\EncuestaModificada\EncuestaModificada\bin\Debug\EncuestaModificada.pdb
+C:\Users\DAVID011\Desktop\ejercicios jesus david\EncuestaModificada\EncuestaModificada\bin\Debug\EncuestaModificada.exe.config
+C:\Users\DAVID011\Desktop\ejercicios jesus david\EncuestaModificada\EncuestaModificada\obj\Debug\EncuestaModificada.exe
+C:\Users\DAVID011\Desktop\ejercicios jesus david\EncuestaModificada\EncuestaModificada\obj\Debug\EncuestaModificada.pdb
+C:\Users\DAVID011\Desktop\ejercicios jesus david\EncuestaModificada\EncuestaModificada\bin\Debug\EncuestaModificada.exe
+C:\Users\DAVID011\Desktop\ejercicios jesus david\EncuestaModificada\EncuestaModificada\bin\Debug\EncuestaModificada.pdb
+C:\Users\DAVID011\Desktop\ejercicios jesus david\EncuestaModificada\EncuestaModificada\obj\Debug\EncuestaModificada.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+F:\Ejercicios_Instructor_Jesus_David\ejercicioAtributos\ejercicioAtributos\bin\Debug\ejercicioAtributos.exe.config
+F:\Ejercicios_Instructor_Jesus_David\ejercicioAtributos\ejercicioAtributos\bin\Debug\ejercicioAtributos.exe
+F:\Ejercicios_Instructor_Jesus_David\ejercicioAtributos\ejercicioAtributos\bin\Debug\ejercicioAtributos.pdb
+F:\Ejercicios_Instructor_Jesus_David\ejercicioAtributos\ejercicioAtributos\obj\Debug\ejercicioAtributos.csprojResolveAssemblyReference.cache
+F:\Ejercicios_Instructor_Jesus_David\ejercicioAtributos\ejercicioAtributos\obj\Debug\ejercicioAtributos.exe
+F:\Ejercicios_Instructor_Jesus_David\ejercicioAtributos\ejercicioAtributos\obj\Debug\ejercicioAtributos.pdb
